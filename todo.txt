@@ -1,0 +1,17 @@
+1: Need data folder
+    a: data merge
+    b: dataset classes
+    c: transforms
+2: need model folder--- 
+    a: base loading of model with custom wrapping. 
+    b: lora confis
+
+3: train folder:
+    a: 
+
+4: eval folder
+    a: inference functions
+    b: eval loop
+5: loss functions
+6: metrics
+
